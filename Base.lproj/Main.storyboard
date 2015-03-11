@@ -7,7 +7,7 @@
         <!--View Controller-->
         <scene sceneID="oaZ-XU-V0V">
             <objects>
-                <viewController id="Rmf-tZ-wro" customClass="ViewController" customModule="franc_ios" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="Rmf-tZ-wro" customClass="ViewController" customModule="franc" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="DnX-A5-bQS"/>
                         <viewControllerLayoutGuide type="bottom" id="yzZ-mv-bVE"/>
@@ -326,7 +326,7 @@
         <!--Robinhood-->
         <scene sceneID="FSE-Pc-xHd">
             <objects>
-                <viewController id="jts-X0-Bwi" customClass="myViewController" customModule="franc_ios" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="jts-X0-Bwi" customClass="myViewController" customModule="franc" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="dqY-bx-CaN"/>
                         <viewControllerLayoutGuide type="bottom" id="g2g-h3-fec"/>
@@ -441,7 +441,7 @@
         <!--Inqora-->
         <scene sceneID="mr9-1L-9AI">
             <objects>
-                <viewController id="04l-fp-7h5" customClass="ExploreViewController" customModule="franc_ios" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="04l-fp-7h5" customClass="ExploreViewController" customModule="franc" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="bfB-cn-MFh"/>
                         <viewControllerLayoutGuide type="bottom" id="9xE-Ee-s5w"/>

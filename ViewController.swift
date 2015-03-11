@@ -8,7 +8,6 @@
 
 import UIKit
 import Foundation
-import Realm
 
 class ViewController: UIViewController {
     
